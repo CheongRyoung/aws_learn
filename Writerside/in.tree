@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE instance-profile
+        SYSTEM "https://resources.jetbrains.com/writerside/1.0/product-profile.dtd">
+
+<instance-profile id="in"
+                 name="Instance Name"
+                 start-page="starter.md">
+
+    <toc-element topic="starter.md"/>
+    <toc-element topic="AWS-Cloud-Practitioner.md">
+        <toc-element topic="Security.md"/>
+        <toc-element topic="Store.md"/>
+        <toc-element topic="Region.md"/>
+        <toc-element topic="VPC.md"/>
+    </toc-element>
+</instance-profile>
